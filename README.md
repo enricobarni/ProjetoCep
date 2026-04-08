@@ -34,7 +34,7 @@ gerarStringEndereco(): Formata a saída utilizando desestruturação de parâmet
 
 BuscarDadosCep(): Orquestra a lógica principal de busca e exibição.
 
-💻 *## *Exemplo de Implementação\*
+💻 *Exemplo de Implementação*
 Trecho do código que demonstra a desestruturação dos dados recebidos da API para facilitar a leitura do código:
 
 JavaScript
